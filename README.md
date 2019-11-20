@@ -18,3 +18,5 @@ Sample Output
 Explanation
 
 Time t =4 marks the beginning of the second cycle. It is double the number displayed at the beginning of the first cycle: 2 x 3 = 6.
+
+HackerRank: https://www.hackerrank.com/challenges/strange-code/problem
